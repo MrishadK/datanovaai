@@ -77,7 +77,7 @@ You do not need to start the Python server manually. To build and run the entire
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url>](https://github.com/MrishadK/datanovaai.git
+git clone https://github.com/MrishadK/datanovaai.git
 cd datanovaai
 
 # 2. Upgrade Flutter dependencies
